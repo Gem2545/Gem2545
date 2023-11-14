@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pornpipat Kitireanglarp or Gem</h1>
-<p align="center"><img src="https://github.com/Gem2545/Gem2545/assets/132577636/5b215003-418a-4858-b134-c00b603af4ea" alt="bf2cf2476da839c79ea875e86c33a8f4"> </p>
+<p align="center"><img src="https://github.com/Gem2545/Gem2545/assets/132577636/5b215003-418a-4858-b134-c00b603af4ea" alt="bf2cf2476da839c79ea875e86c33a8f4" style="width:100%; height:30%;"> </p>
 
-<h3 align="center">A passionate full stack developer from Thailand</h3>
+<h3 align="center">A passionate full stack developer from Thailand</h3>;
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gem2545&theme=darkhub" alt="gem2545" /></a> </p>
 
